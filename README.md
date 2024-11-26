@@ -1,5 +1,3 @@
-# AULAcomponents-part-1-2
-´´´
 # React Components parte 1
 **Inicialmente, baixe e extraia o arquivo images.zip fornecido. Em seguida, abra uma pasta assets na pasta pública do seu projeto React e transfira a pasta de imagens para o diretório public/assets. Essas imagens serão empregadas para mostrar os pratos no elemento de menu**
 
@@ -27,7 +25,7 @@ remova a variável dishes do estado e utilize o componente Card do "Reactstrap" 
  importe o componente "MenuComponent" e utilize-o para exibir o menu. Para melhorar a apresentação.
 
 **Após essas modificações, rode o projeto para garantir que o menu com os pratos esteja sendo exibido corretamente e que os detalhes dos pratos apareçam ao serem selecionados.**
-´´´
+
 
 
 
